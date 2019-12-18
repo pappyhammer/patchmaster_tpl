@@ -1,4 +1,4 @@
-# Generatin HEKA patchmaster template file
+# Generating HEKA patchmaster template file
 Code for generating a HEKA patchmaster template file that produce a sin wave current with linearly changing frequency.
 
 Similar to what's it's shown in the figure 1 A1 & B of the paper of 
