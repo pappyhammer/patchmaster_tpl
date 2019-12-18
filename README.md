@@ -16,3 +16,6 @@ value is ”-0.080”.
 
 Patchmaster is a multi-channel stimulation/acquisition software with programmable experiment control and automation, 
 software Lock-in amplifier and Photometry/Imaging extension.
+
+
+Thanks to https://github.com/ChristophKirst/TemplateCreator/blob/master/mainwindow.cpp for showing the way to do it. 
