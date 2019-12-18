@@ -19,4 +19,4 @@ Patchmaster is a multi-channel stimulation/acquisition software with programmabl
 software Lock-in amplifier and Photometry/Imaging extension.
 
 
-Thanks to https://github.com/ChristophKirst/TemplateCreator for showing the way to do it. 
+Thanks to https://github.com/ChristophKirst/TemplateCreator for showing the way. 
